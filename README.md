@@ -23,8 +23,6 @@ I enjoy building scalable, secure, and efficient systems.
 
 ### ⚙️ Scripting & Automation![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 ## 🛠 Other Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -34,6 +32,7 @@ I enjoy building scalable, secure, and efficient systems.
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 🚀 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨
 
 🔹 Cloud Architecture & Deployment – Designing scalable and fault-tolerant cloud solutions
