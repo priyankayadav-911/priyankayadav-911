@@ -42,9 +42,7 @@ I enjoy building scalable, secure, and efficient systems.
 🔹 Infrastructure as Code (IaC) – Managing cloud resources efficiently with Terraform & Ansible
 
 🔹 Monitoring & Security – Ensuring uptime, performance, and security of critical systems
-
-📌 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠
-
+---
 📬 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭!
 
 💼 LinkedIn https://www.linkedin.com/in/priyanka-gadam
