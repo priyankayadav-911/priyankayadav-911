@@ -1,5 +1,7 @@
 ## Hi I'm Priyanka Gadam 👋
-<h1 align="center">👋 Hey, welcome to my profile</h1>
+<p align="center">
+  <img src="https://your-image-link.gif" alt="banner"/>
+</p>
 
 ## 🚀 About Me
 I'm a DevOps Engineer passionate about cloud computing, automation, CI/CD, and Infrastructure as Code (IaC).  
